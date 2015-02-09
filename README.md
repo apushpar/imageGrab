@@ -1,3 +1,3 @@
 #imageGrab
 
-A chrome extension to bul download images from the visited website.
+A chrome extension to bulk download images from the visited website.
