@@ -1,3 +1,3 @@
-#siteSmash
+#imageGrab
 
-A chrome extension to review websites.
+A chrome extension to bul download images from the visited website.
